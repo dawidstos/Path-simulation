@@ -1,2 +1,1 @@
-"# pffp2024" 
-"# pffp2024" 
+The file at the beginning was designed to pass a course "Python in Finance, Finance in Python", mut later it was improved to be my main project as programmer with math background. It is about interest rate path simulation using SDE path simulation mehods.
