@@ -1,1 +1,1 @@
-The file at the beginning was designed to pass a course "Python in Finance, Finance in Python", but later it was improved to be my main project as programmer with math background. It is about interest rate path simulation using SDE path simulation mehods.
+The file at the beginning was designed to finish a final task from the course "Python in Finance, Finance in Python" but later it was improved to be my main project as programmer with math background. It is about interest rate path simulation using SDE path simulation Monte Carlo mehods.
